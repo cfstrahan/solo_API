@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+/*.movie1 {
+
+}
+
+.movie2 {
+
+}
+
+.movie3 {
+  float: inline-right;
+}*/
+
+div {
+  resize: both;
+  overflow: auto;
+  display: block;
+  text-align: center;
+}
